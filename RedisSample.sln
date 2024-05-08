@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChat", "SimpleChat\SimpleChat.csproj", "{08DEEAA5-CF7C-45BD-AC6C-92CA2B8C8BF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectDemo", "ConnectDemo\ConnectDemo.csproj", "{0E878EEC-3513-43B1-8473-C31527E32BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{08DEEAA5-CF7C-45BD-AC6C-92CA2B8C8BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08DEEAA5-CF7C-45BD-AC6C-92CA2B8C8BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08DEEAA5-CF7C-45BD-AC6C-92CA2B8C8BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E878EEC-3513-43B1-8473-C31527E32BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E878EEC-3513-43B1-8473-C31527E32BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E878EEC-3513-43B1-8473-C31527E32BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E878EEC-3513-43B1-8473-C31527E32BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
